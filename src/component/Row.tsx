@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'plugins/axios'
-import './Row.scss'
+import 'component/Row.scss'
 
 type Props = {
   title: string,
